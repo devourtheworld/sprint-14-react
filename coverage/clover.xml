@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1605733383528" clover="3.2.0">
+  <project timestamp="1605733383528" name="All files">
+    <metrics statements="11" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="3" elements="17" coveredelements="10" complexity="0" loc="11" ncloc="11" packages="1" files="3" classes="3"/>
+    <file name="App.js" path="D:\programs\programming\projects\gitHTML\react-om-sprint-14-zbys1av\src\App.js">
+      <metrics statements="8" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="2"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="13" count="0" type="stmt"/>
+      <line num="15" count="0" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="25" count="0" type="stmt"/>
+    </file>
+    <file name="dataService.js" path="D:\programs\programming\projects\gitHTML\react-om-sprint-14-zbys1av\src\dataService.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+    </file>
+    <file name="index.js" path="D:\programs\programming\projects\gitHTML\react-om-sprint-14-zbys1av\src\index.js">
+      <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="6" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
